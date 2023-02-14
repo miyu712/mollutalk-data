@@ -1,0 +1,387 @@
+[
+  {
+    "kr" : "이 이용약관(이하, 「본 약관」이라고 합니다.)은, 이 웹 사이트상에서 제공하는 서비스(이하, 「본 서비스」라고 합니다.)의 이용조건을 정하는 것입니다.",
+    "en" : "These Terms of Use (hereinafter referred to as the “Terms of Use”) set the terms and conditions of use for the services provided on this website (hereinafter referred to as the “Services”).",
+    "jp" : "この利用約款（以下、「本約款」といいます。）は、このウェブサイト上で提供するサービス（以下、「本サービス」といいます。）の利用条件を定めるものです。",
+    "zh_cn" : "本使用条款（以下称'本条款'）规定了本网站提供的服务（以下称'本服务'）的使用条件。",
+    "zh_tw" : "本使用條款（以下稱'本條款'）規定了本網站提供的服務（以下稱'本服務'）的使用條件。"
+  },
+  {
+    "kr" : "등록 유저의 여러분(이하, 「유저」라고 합니다.)은, 본 약관에 따라서, 본서비스를 이용하셔야 합니다.",
+    "en" : "Registered users (hereinafter referred to as 'users') must use this service in accordance with these terms and conditions.",
+    "jp" : "登録ユーザーの皆様（以下、「ユーザー」といいます。）は、本約款により、本サービスを利用する必要があります。",
+    "zh_cn" : "根据本条款，注册用户（以下简称'用户'）必须使用本服务。",
+    "zh_tw" : "根據本條款，註冊用戶（以下簡稱'用戶'）必須使用本服務。"
+  },
+  {
+    "kr" : "제1조 (적용)",
+    "en" : "Article 1 (Application)",
+    "jp" : "第1条（適用）",
+    "zh_cn" : "第1条（适用）",
+    "zh_tw" : "第1條（適用）"
+  },
+  {
+    "kr" : "본 약관은 사용자와 당사 사이의 본 서비스 이용과 관련된 일체의 관계에 적용되는 것으로 합니다.",
+    "en" : "These Terms and Conditions shall apply to any relationship between the user and the Company related to the use of this service.",
+    "jp" : "本規約は、利用者と当社との間の本サービス利用に係る一切の関係に適用されるものとします。",
+    "zh_cn" : "本规定适用于用户与本公司之间有关使用本服务的一切关系。",
+    "zh_tw" : "本規定適用於用戶與本公司之間有關使用本服務的一切關係。"
+  },
+  {
+    "kr" : "당사는 본 서비스에 관해, 본 약관 외, 이용에 있어서의 룰 등, 각종 규정(이하, 「개별 규정」이라고 합니다.)을 하는 일이 있습니다.",
+    "en" : "In addition to these terms and conditions, our company may make various regulations (hereinafter referred to as “individual regulations”), such as rules for use, regarding this service.",
+    "jp" : "当社は本サービスに関して、本約款のほか、利用におけるルール等、各種規定（以下、「個別規定」といいます。）をすることがあります。",
+    "zh_cn" : "关于本服务，除本条款外，本公司还可能进行使用规则等各种规定（以下称'个别规定'）。",
+    "zh_tw" : "關於本服務，除本條款外，本公司還可能進行使用規則等各種規定（以下稱'個別規定'）。"
+  },
+  {
+    "kr" : "이들 개별 규정은 그 명칭의 여하에 관계없이, 본 약관의 일부를 구성하는 것으로 합니다.",
+    "en" : "These individual provisions, regardless of their name, shall form a part of these Terms and Conditions.",
+    "jp" : "これらの個別規定は、その名称の如何にかかわらず、本規約の一部を構成するものとします。",
+    "zh_cn" : "这些个别规定无论其名称如何，均应构成本规章的一部分。",
+    "zh_tw" : "這些個別規定無論其名稱如何，均應構成本規章的一部分。"
+  },
+  {
+    "kr" : "본 약관의 규정이 전조의 개별규정의 규정과 모순되는 경우에는 개별규정에 대해 특별한 규정이 없는 한 개별규정의 규정이 우선되는 것으로 합니다.",
+    "en" : "In the event that the provisions of these Terms and Conditions contradict the provisions of the individual provisions of the preceding article, the provisions of the individual regulations shall take precedence unless there is a special provision for the individual regulations.",
+    "jp" : "本規約の規定が前条の個別規定の規定と矛盾する場合には、個別規定について特別な規定がない限り、個別規定の規定が優先されるものとします。",
+    "zh_cn" : "本规章的规定与前条个别规定相矛盾时，除非个别规定另有规定，否则个别规定应优先。",
+    "zh_tw" : "本規章的規定與前條個別規定相矛盾時，除非個別規定另有規定，否則個別規定應優先。"
+  },
+  {
+    "kr" : "제2조 (금지사항)",
+    "en" : "Article 2 (Prohibited Matters)",
+    "jp" : "第2条（禁止事項）",
+    "zh_cn" : "第2条（禁止事项）",
+    "zh_tw" : "第2條（禁止事項）"
+  },
+  {
+    "kr" : "사용자는 본 서비스를 이용함에 있어 이하의 행위를 해서는 안 됩니다.",
+    "en" : "Users must not do the following when using this service.",
+    "jp" : "ユーザーは、本サービスを利用する際に以下の行為をしてはなりません。",
+    "zh_cn" : "用户在使用本服务时，不得做出以下行为。",
+    "zh_tw" : "用戶在使用本服務時，不得做出以下行爲。"
+  },
+  {
+    "kr" : "○ 블루아카이브 2차 창작 가이드를 위반하는 행위",
+    "en" : "○ Violating the secondary creation guide of Blue Archive",
+    "jp" : "○ ブルーアーカイブ2次創作ガイドに違反する行為",
+    "zh_cn" : "○ 违反蓝色存档二次创作指南的行为",
+    "zh_tw" : "○ 違反藍色存檔二次創作指南的行爲"
+  },
+  {
+    "kr" : "○ 법령 또는 공서양속을 위반하는 행위",
+    "en" : "○ Acts that violate laws or public order and morals",
+    "jp" : "○ 法令または公序良俗に違反する行為",
+    "zh_cn" : "○ 违反法令或公序良俗的行为",
+    "zh_tw" : "○ 違反法令或公序良俗的行爲"
+  },
+  {
+    "kr" : "○ 범죄 행위에 관련된 행위",
+    "en" : "○ Acts related to criminal activity",
+    "jp" : "○ 犯罪行為に関連する行為",
+    "zh_cn" : "○ 与犯罪行为有关的行为",
+    "zh_tw" : "○ 與犯罪行爲有關的行爲"
+  },
+  {
+    "kr" : "○ 본 서비스의 내용 등 본 서비스에 포함되는 저작권, 상표권 외 지적재산권을 침해하는 행위",
+    "en" : "○ Acts that infringe intellectual property rights other than copyrights and trademarks included in this service, such as the contents of this service",
+    "jp" : "○ 本サービスの内容等本サービスに含まれる著作権、商標権以外の知的財産権を侵害する行為",
+    "zh_cn" : "○ 本服务的内容等侵害本服务所包含的著作权、商标权以外的知识产权的行为",
+    "zh_tw" : "○ 本服務的內容等侵害本服務所包含的著作權、商標權以外的知識產權的行爲"
+  },
+  {
+    "kr" : "○ 당사, 다른 사용자 또는 기타 제3자의 서버 또는 네트워크의 기능을 파괴하거나 방해하는 행위",
+    "en" : "○ Acts that destroy or interfere with the functions of the server or network of the Company, other users, or other third parties",
+    "jp" : "○ 当社、他のユーザー、または他の第三者のサーバーまたはネットワークの機能を破壊または妨害する行為",
+    "zh_cn" : "○ 破坏或干扰本公司、其他用户或其他第三方服务器或网络功能的行为",
+    "zh_tw" : "○ 破壞或干擾本公司、其他用戶或其他第三方服務器或網絡功能的行爲"
+  },
+  {
+    "kr" : "○ 본 서비스를 통해 얻은 정보를 상업적으로 이용하는 행위",
+    "en" : "○ Commercial use of information obtained through this service",
+    "jp" : "○ 本サービスを通じて得た情報を商業的に利用する行為",
+    "zh_cn" : "○ 把通过本服务获得的信息用于商业用途的行为",
+    "zh_tw" : "○ 把通過本服務獲得的信息用於商業用途的行爲"
+  },
+  {
+    "kr" : "○ 당사의 서비스 운영을 방해할 우려가 있는 행위",
+    "en" : "○ Acts that may interfere with the operation of our service",
+    "jp" : "○ 当社のサービス運営を妨げるおそれのある行為",
+    "zh_cn" : "○ 可能妨碍本公司服务运营的行为",
+    "zh_tw" : "○ 可能妨礙本公司服務運營的行爲"
+  },
+  {
+    "kr" : "○ 부정 접근을 하거나 이를 시도하는 행위",
+    "en" : "○ Acts of unauthorized access or attempts",
+    "jp" : "○ 不正アクセスをしたり、これを試みる行為",
+    "zh_cn" : "○ 非法访问或尝试访问的行为",
+    "zh_tw" : "○ 非法訪問或嘗試訪問的行爲"
+  },
+  {
+    "kr" : "○ 다른 사용자에 관한 개인정보 등을 수집 또는 축적하는 행위",
+    "en" : "○ Collecting or accumulating personal information about other users",
+    "jp" : "○ 他のユーザーに関する個人情報などを収集または蓄積する行為",
+    "zh_cn" : "○ 收集或积累有关其他用户个人信息的行为",
+    "zh_tw" : "○ 收集或積累有關其他用戶個人信息的行爲"
+  },
+  {
+    "kr" : "○ 부정한 목적을 가지고 본 서비스를 이용하는 행위",
+    "en" : "○ Acts of using this service for illegal purposes",
+    "jp" : "○ 不正な目的をもって本サービスを利用する行為",
+    "zh_cn" : "○ 以不正当目的使用本服务的行为",
+    "zh_tw" : "○ 以不正當目的使用本服務的行爲"
+  },
+  {
+    "kr" : "○ 본 서비스의 다른 사용자 또는 기타 제3자에게 불이익, 손해, 불쾌감을 주는 행위",
+    "en" : "○ Acts that cause disadvantage, damage, or displeasure to other users of this service or other third parties",
+    "jp" : "○ 本サービスの他のユーザーまたは他の第三者に不利益、損害、不快感を与える行為",
+    "zh_cn" : "○ 给本服务其他用户或其他第三方带来不利、损害、不快感的行为",
+    "zh_tw" : "○ 給本服務其他用戶或其他第三方帶來不利、損害、不快感的行爲"
+  },
+  {
+    "kr" : "○ 다른 사용자 행세를 하는 행위",
+    "en" : "○ Acts of pretending to be another user",
+    "jp" : "○ 他のユーザー行為をする行為",
+    "zh_cn" : "○ 进行其他用户行为的行为",
+    "zh_tw" : "○ 進行其他用戶行爲的行爲"
+  },
+  {
+    "kr" : "○ 당사가 허락하지 않는 본 서비스상에서의 선전, 광고, 권유 또는 영업행위",
+    "en" : "○ Propaganda, advertisement, solicitation, or business conduct on this service that is not permitted by the Company",
+    "jp" : "○ 当社が許諾しない本サービス上での宣伝、広告、勧誘または営業行為",
+    "zh_cn" : "○ 本公司不允许在本服务上的宣传、广告、劝诱或营业行为",
+    "zh_tw" : "○ 本公司不允許在本服務上的宣傳、廣告、勸誘或營業行爲"
+  },
+  {
+    "kr" : "○ 안면이 없는 이성과의 만남을 목적으로 한 행위",
+    "en" : "○ Acts for the purpose of meeting with the opposite sex",
+    "jp" : "○ 顔面のない異性との出会いを目的とした行為",
+    "zh_cn" : "○ 以和没有面子的异性交往为目的的行为",
+    "zh_tw" : "○ 以和沒有面子的異性交往爲目的的行爲"
+  },
+  {
+    "kr" : "○ 당사의 서비스와 관련하여 반사회적 세력에 대하여 직간접으로 이익을 공여하는 행위",
+    "en" : "○ Acts of directly or indirectly providing benefits to anti-social forces in relation to our services",
+    "jp" : "○ 当社のサービスに関連して反社会的勢力に対して直間接で利益を供与する行為",
+    "zh_cn" : "○ 直接或间接地给与本公司服务相关的反社会势力提供利益的行为",
+    "zh_tw" : "○ 直接或間接地給與本公司服務相關的反社會勢力提供利益的行爲"
+  },
+  {
+    "kr" : "○ 그 밖에 당사가 부적절하다고 판단하는 행위",
+    "en" : "○ Other acts that the Company deems inappropriate",
+    "jp" : "○ その他、当社が不適切と判断する行為",
+    "zh_cn" : "○ 其他本公司判断为不合适的行为",
+    "zh_tw" : "○ 其他本公司判斷爲不合適的行爲"
+  },
+  {
+    "kr" : "제3조 (본 서비스 제공 정지 등)",
+    "en" : "Article 3 (Suspension of this service, etc.)",
+    "jp" : "第3条（本サービス提供停止等）",
+    "zh_cn" : "第3条（停止提供本服务等）",
+    "zh_tw" : "第3條（停止提供本服務等）"
+  },
+  {
+    "kr" : "당사는, 이하의 어느 하나의 사유가 있다고 판단했을 경우, 사용자에게 사전에 통지하지 않고 본 서비스의 전부 또는 일부의 제공을 정지 또는 중단할 수 있는 것으로 합니다.",
+    "en" : "The Company may suspend or suspend the provision of all or part of this service without prior notice to the user if it is determined that there is any of the following reasons.",
+    "jp" : "当社は、以下のいずれかの事由があると判断した場合、ユーザーに事前に通知することなく本サービスの全部または一部の提供を停止または中断できるものとします。",
+    "zh_cn" : "本公司在判断有以下任一原因时，无需事先通知用户即可停止或中断提供本服务的全部或部分。",
+    "zh_tw" : "本公司在判斷有以下任一原因時，無需事先通知用戶即可停止或中斷提供本服務的全部或部分。"
+  },
+  {
+    "kr" : "○ 본 서비스에 관한 컴퓨터 시스템의 유지보수 점검 또는 갱신을 하는 경우",
+    "en" : "○ In case of maintenance, inspection or renewal of computer system related to this service",
+    "jp" : "○ 本サービスに関するコンピュータシステムの保守点検または更新を行う場合",
+    "zh_cn" : "○ 进行与本服务相关的计算机系统的维护检查或更新时",
+    "zh_tw" : "○ 進行與本服務相關的計算機系統的維護檢查或更新時"
+  },
+  {
+    "kr" : "○ 지진, 낙뢰, 화재, 정전 또는 천재지변 등의 불가항력으로 본 서비스 제공이 어려워진 경우",
+    "en" : "○ In case the provision of this service becomes difficult due to force majeure such as earthquake, lightning, fire, power outage, or natural disaster",
+    "jp" : "○ 地震、落雷、火災、停電、天災などの不可抗力で本サービスの提供が困難になった場合",
+    "zh_cn" : "○ 因地震、雷击、火灾、停电、自然灾害等不可抗力而难以提供本服务时",
+    "zh_tw" : "○ 因地震、雷擊、火災、停電、自然災害等不可抗力而難以提供本服務時"
+  },
+  {
+    "kr" : "○ 컴퓨터 또는 통신회선 등이 사고로 정지한 경우",
+    "en" : "○ In case the computer or communication line is stopped due to an accident",
+    "jp" : "○ コンピュータや通信回線などが事故で停止した場合",
+    "zh_cn" : "○ 计算机或通信线路等因事故而停止时",
+    "zh_tw" : "○ 計算機或通信線路等因事故而停止時"
+  },
+  {
+    "kr" : "○ 기타 당사가 본 서비스의 제공이 곤란하다고 판단한 경우",
+    "en" : "○ In other cases where the Company determines that it is difficult to provide this service",
+    "jp" : "○ その他当社が本サービスの提供が困難であると判断した場合",
+    "zh_cn" : "○ 其他本公司判断难以提供本服务时",
+    "zh_tw" : "○ 其他本公司判斷難以提供本服務時"
+  },
+  {
+    "kr" : "제4조 (이용제한 및 등록말소)",
+    "en" : "Article 4 (Restriction on Use and Cancellation of Registration)",
+    "jp" : "第4条（利用制限及び登録抹消）",
+    "zh_cn" : "第4条（使用限制及注销注册）",
+    "zh_tw" : "第4條（使用限制及註銷註冊）"
+  },
+  {
+    "kr" : "당사는, 유저가 이하의 어느 하나에 해당하는 경우에는, 사전 통지 없이, 유저에 대해서, 본 서비스의 전부 혹은 일부의 이용을 제한하거나 유저로서의 등록을 말소할 수 있는 것으로 합니다.",
+    "en" : "In the event that a user falls under any of the following, the Company may restrict the use of all or part of this service to the user or cancel the registration as a user without prior notice.",
+    "jp" : "当社は、ユーザーが以下のいずれかに該当する場合には、事前の通知なく、ユーザーに対して、本サービスの全部または一部の利用を制限したり、ユーザーとしての登録を抹消できるものとします。",
+    "zh_cn" : "如果用户符合以下任一条件，本公司可在不事先通知的情况下，限制用户使用本服务的全部或部分，或注销用户注册。",
+    "zh_tw" : "如果用戶符合以下任一條件，本公司可在不事先通知的情況下，限制用戶使用本服務的全部或部分，或註銷用戶註冊。"
+  },
+  {
+    "kr" : "○ 본 약관 중 하나의 조항을 위반한 경우",
+    "en" : "○ In case of violation of one of these terms and conditions",
+    "jp" : "○ 本規約のいずれかの条項に違反した場合",
+    "zh_cn" : "○ 违反本条款之一时",
+    "zh_tw" : "○ 違反本條款之一時"
+  },
+  {
+    "kr" : "○ 등록사항에 허위사실이 있는 것으로 판명된 경우",
+    "en" : "○ If it is found that there are false facts in the registration information",
+    "jp" : "○ 登録事項に虚偽の事実があると判明した場合",
+    "zh_cn" : "○ 发现登记事项有虚假事实时",
+    "zh_tw" : "○ 發現登記事項有虛假事實時"
+  },
+  {
+    "kr" : "○ 요금 등의 지불 채무 불이행이 있는 경우",
+    "en" : "○ If there is a default of payment of fees, etc.",
+    "jp" : "○ 料金等の支払債務不履行がある場合",
+    "zh_cn" : "○ 存在费用等支付债务不履行情况",
+    "zh_tw" : "○ 存在費用等支付債務不履行情況"
+  },
+  {
+    "kr" : "○ 당사로부터의 연락에 대해 일정 기간 답변이 없는 경우",
+    "en" : "○ If there is no response for a certain period of time to contact from us",
+    "jp" : "○ 当社からの連絡に対して一定期間の回答がない場合",
+    "zh_cn" : "○ 对于本公司的联络，在一定期间内没有答复时",
+    "zh_tw" : "○ 對於本公司的聯絡，在一定期間內沒有答覆時"
+  },
+  {
+    "kr" : "○ 본 서비스에 대해 최종 이용부터 일정 기간 이용이 없는 경우",
+    "en" : "○ If there is no use of this service for a certain period from the last use",
+    "jp" : "○ 本サービスについて最終利用から一定期間利用がない場合",
+    "zh_cn" : "○ 关于本服务，从最终使用起一定期间内没有使用时",
+    "zh_tw" : "○ 關於本服務，從最終使用起一定期間內沒有使用時"
+  },
+  {
+    "kr" : "○ 기타 당사가 본 서비스의 이용을 적당하지 않다고 판단했을 경우",
+    "en" : "○ In other cases where the Company determines that the use of this service is not appropriate",
+    "jp" : "○ その他当社が本サービスの利用を適当ではないと判断した場合",
+    "zh_cn" : "○ 其他本公司判断不适合使用本服务时",
+    "zh_tw" : "○ 其他本公司判斷不適合使用本服務時"
+  },
+  {
+    "kr" : "당사는, 본조에 근거해 당사가 행한 행위에 의해 유저에게 생긴 손해에 대해서, 일체의 책임을 지지 않습니다.",
+    "en" : "We do not take any responsibility for any damage caused to users by our actions based on this article.",
+    "jp" : "当社は、本条に基づき当社が行った行為によりユーザーに生じた損害について、一切の責任を負いません。",
+    "zh_cn" : "本公司对因本公司根据本条所采取的行为而给用户造成的损害概不负责。",
+    "zh_tw" : "本公司對因本公司根據本條所採取的行爲而給用戶造成的損害概不負責。"
+  },
+  {
+    "kr" : "제5조 (보증의 부인 및 면책사항)",
+    "en" : "Article 5 (Disclaimer of Warranty and Disclaimer)",
+    "jp" : "第5条（保証の否認及び免責事項）",
+    "zh_cn" : "第5条（保证的否认及免责事项）",
+    "zh_tw" : "第5條（保證的否認及免責事項）"
+  },
+  {
+    "kr" : "당사는 본 서비스에 사실상 또는 법률상의 하자(안전성, 신뢰성, 정확성, 무결성, 유효성, 특정 목적에 대한 적합성, 보안 등에 관한 결함, 오류나 버그, 권리 침해 등을 포함합니다.)가 없음을 명시적으로도 묵시적으로도 보증하지 않습니다.",
+    "en" : "We expressly declare that this service is free from defects in fact or law (including defects, errors or bugs, infringement of rights, etc.) regarding safety, reliability, accuracy, integrity, effectiveness, fitness for a particular purpose, security, etc. No warranties are made, even implied.",
+    "jp" : "当社は、本サービスに事実上または法律上の欠陥（安全性、信頼性、正確性、完全性、有効性、特定目的への適合性、セキュリティなどに関する欠陥、エラーやバグ、権利侵害などを含みます）がないことを明示的にも黙示的にも保証しません。",
+    "zh_cn" : "我们既不明确也不隐含地保证本服务实际上或法律上的缺陷（包括安全性、可靠性、准确性、完整性、有效性、符合特定目的、安全性等缺陷、错误或错误、侵权等）。",
+    "zh_tw" : "我們既不明確也不隱含地保證本服務實際上或法律上的缺陷（包括安全性、可靠性、準確性、完整性、有效性、符合特定目的、安全性等缺陷、錯誤或錯誤、侵權等）。"
+  },
+  {
+    "kr" : "당사는 본 서비스에 기인하여 사용자에게 발생한 모든 손해에 대해 일체의 책임을 지지 않습니다.",
+    "en" : "We do not take any responsibility for any damage caused to users as a result of this service.",
+    "jp" : "当社は、本サービスに起因してユーザーに発生したすべての損害に対して一切の責任を負いません。",
+    "zh_cn" : "本公司对因本服务给用户造成的所有损害概不负责。",
+    "zh_tw" : "本公司對因本服務給用戶造成的所有損害概不負責。"
+  },
+  {
+    "kr" : "다만, 본 서비스에 관한 당사와 유저와의 사이의 계약(본 약관을 포함합니다.)이 소비자 계약법에 정하는 소비자 계약이 되는 경우, 이 면책 규정은 적용되지 않습니다.",
+    "en" : "However, if the contract between the Company and the user regarding this service (including these Terms and Conditions) becomes a consumer contract as stipulated in the Consumer Contract Act, this exemption does not apply.",
+    "jp" : "ただし、本サービスに関する当社とユーザーとの間の契約（本約款を含みます。）が消費者契約法に定める消費者契約となる場合、この免責規定は適用されません。",
+    "zh_cn" : "但是，本服务相关的本公司与用户之间的合同（包括本条款）为《消费者合同法》中规定的消费者合同时，不适用本免责规定。",
+    "zh_tw" : "但是，本服務相關的本公司與用戶之間的合同（包括本條款）爲《消費者合同法》中規定的消費者合同時，不適用本免責規定。"
+  },
+  {
+    "kr" : "전항 단서에서 정하는 경우라도 당사는 당사의 과실(중과실을 제외합니다.)에 의한 채무불이행 또는 불법행위에 의해 사용자에게 생긴 손해 중 특별한 사정으로부터 생긴 손해(당사 또는 사용자가 손해 발생에 대해 예견하거나 예견할 수 있었던 경우를 포함합니다.)에 대해 일체의 책임을 지지 않습니다.",
+    "en" : "Even in the case stipulated in the proviso to the preceding paragraph, the Company shall be responsible for the damage caused by special circumstances among the damage caused to the user by default or tort due to our negligence (excluding gross negligence). (Including cases that could have been possible), we are not responsible for any",
+    "jp" : "前項ただし書で定める場合でも、当社は当社の過失（重過失を除きます。）による債務不履行又は不法行為によりユーザーに生じた損害のうち、特別な事情から生じた損害（当社又はユーザーが損害発生について予見又は予見する。できた場合を含みます。）について一切の責任を負いません。",
+    "zh_cn" : "即使在前项条款中规定的情况下，本公司因本公司过失（严重过失除外）导致的债务不履行或非法行为对用户造成的损失中，因特殊原因造成的损失（本公司或用户对发生损失进行预见或预见）。包括已完成的情况。）不承担任何责任。",
+    "zh_tw" : "即使在前項條款中規定的情況下，本公司因本公司過失（嚴重過失除外）導致的債務不履行或非法行爲對用戶造成的損失中，因特殊原因造成的損失（本公司或用戶對發生損失進行預見或預見）。包括已完成的情況。）不承擔任何責任。"
+  },
+  {
+    "kr" : "또, 당사의 과실(중과실을 제외합니다.)에 의한 채무 불이행 또는 불법 행위에 의해 유저에게 생긴 손해의 배상은, 유저로부터 해당 손해가 발생한 달에 수령한 이용료의 금액을 상한으로 합니다.",
+    "en" : "In addition, compensation for damages caused to users due to default or illegal acts due to our negligence (excluding gross negligence) is set at the upper limit of the amount of usage fee received from the user in the month in which the damage occurred.",
+    "jp" : "また、当社の過失（重過失を除きます。）による債務不履行または不法行為によりユーザーに生じた損害の賠償は、ユーザーから当該損害が発生した月に受領した利用料の金額を上限とします。",
+    "zh_cn" : "此外，因本公司过失（严重过失除外）导致的债务不履行或非法行为对用户造成的损害赔偿，以用户发生该损害的月份领取的使用费金额为上限。",
+    "zh_tw" : "此外，因本公司過失（嚴重過失除外）導致的債務不履行或非法行爲對用戶造成的損害賠償，以用戶發生該損害的月份領取的使用費金額爲上限。"
+  },
+  {
+    "kr" : "당사는, 본 서비스에 관해서, 사용자와 다른 유저 또는 제삼자 사이에 생긴 거래, 연락 또는 분쟁등에 대해 일절 책임지지 않습니다.",
+    "en" : "We are not responsible for any transactions, communications, or disputes between the user and other users or third parties regarding this service.",
+    "jp" : "当社は、本サービスに関して、ユーザーと他のユーザー又は第三者との間に生じた取引、連絡又は紛争等に対して一切責任を負いません。",
+    "zh_cn" : "本公司对用户与其他用户或第三方之间发生的有关本服务的交易、联系或纠纷概不负责。",
+    "zh_tw" : "本公司對用戶與其他用戶或第三方之間發生的有關本服務的交易、聯繫或糾紛概不負責。"
+  },
+  {
+    "kr" : "제6조 (서비스 내용의 변경 등)",
+    "en" : "Article 6 (Change of service contents, etc.)",
+    "jp" : "第6条(サービス内容の変更等)",
+    "zh_cn" : "第6条（服务内容的变更等）",
+    "zh_tw" : "第6條（服務內容的變更等）"
+  },
+  {
+    "kr" : "당사는 사용자에게 통지하지 않고 본 서비스의 내용을 변경하거나 본 서비스의 제공을 중지할 수 있으며 이로 인해 사용자에게 발생한 손해에 대해 일체의 책임을 지지 않습니다.",
+    "en" : "We may change the contents of this service or stop providing this service without notifying the user, and we shall not be held responsible for any damage caused to the user.",
+    "jp" : "当社は、ユーザーに通知することなく本サービスの内容を変更したり、本サービスの提供を中止することができ、これにより、ユーザーに発生した損害に対して一切の責任を負いません。",
+    "zh_cn" : "本公司可在不通知用户的情况下变更本服务的内容或停止提供本服务，因此对用户造成的损失概不负责。",
+    "zh_tw" : "本公司可在不通知用戶的情況下變更本服務的內容或停止提供本服務，因此對用戶造成的損失概不負責。"
+  },
+  {
+    "kr" : "제7조 (이용약관의 변경)",
+    "en" : "Article 7 (Change of Terms of Use)",
+    "jp" : "第7条（利用規約の変更）",
+    "zh_cn" : "第7条（使用条款的变更）",
+    "zh_tw" : "第7條（使用條款的變更）"
+  },
+  {
+    "kr" : "당사는, 필요하다고 판단했을 경우에는, 유저에게 통지하지 않고 언제라도 본 약관을 변경할 수 있는 것으로 합니다.덧붙여 본 약관의 변경 후, 본 서비스의 이용을 개시했을 경우에는, 해당 유저는 변경 후의 약관에 동의한 것으로 간주합니다.",
+    "en" : "The Company may change these Terms and Conditions at any time without notifying the user when deemed necessary. In addition, when starting to use this Service after changing these Terms, the user concerned is subject to the changed Terms and Conditions. I assume you agree.",
+    "jp" : "当社は、必要と判断した場合には、ユーザーに通知することなくいつでも本約款を変更できるものとします。 なお、本約款の変更後、本サービスの利用を開始した場合には、当該ユーザーは変更後の約款に同意したものとみなします。",
+    "zh_cn" : "本公司认为必要时，无需通知用户，可随时变更本条款。 此外，变更本条款后开始使用本服务时，视为该用户同意变更后的条款。",
+    "zh_tw" : "本公司認爲必要時，無需通知用戶，可隨時變更本條款。 此外，變更本條款後開始使用本服務時，視爲該用戶同意變更後的條款。"
+  },
+  {
+    "kr" : "제8조(재판권 및 준거법)",
+    "en" : "Article 8 (Jurisdiction and Governing Law)",
+    "jp" : "第8条(裁判権及び準拠法)",
+    "zh_cn" : "第8条（审判权及准据法）",
+    "zh_tw" : "第8條（審判權及準據法）"
+  },
+  {
+    "kr" : "당사는 이용자 간에 발생한 전자상거래 분쟁에 관한 소송은 제소 당시의 이용자의 주소에 의하고, 주소가 없는 경우에는 거소를 관할하는 지방법원의 전속관할로 합니다.",
+    "en" : "In case of litigation regarding e-commerce disputes between users, the address of the user at the time of filing the complaint, and if there is no address, the district court having jurisdiction over the place of residence shall have exclusive jurisdiction.",
+    "jp" : "当社は利用者間で発生した電子商取引紛争に関する訴訟は提訴当時の利用者の住所により、住所がない場合には居所を管轄する地方裁判所の専属管轄とします。",
+    "zh_cn" : "本公司对用户间发生的电子商务纠纷的诉讼，根据起诉当时用户的地址，没有地址时，由管辖住所的地方法院专属管辖。",
+    "zh_tw" : "本公司對用戶間發生的電子商務糾紛的訴訟，根據起訴當時用戶的地址，沒有地址時，由管轄住所的地方法院專屬管轄。"
+  },
+  {
+    "kr" : "다만, 제소 당시 이용자의 주소 또는 거소가 분명하지 않거나 외국 거주자의 경우에는 민사소송법상의 관할법원에 제기합니다.",
+    "en" : "However, if the address or residence of the user is not clear at the time of filing, or if the user is a foreign resident, the complaint shall be submitted to the competent court under the Civil Procedure Act.",
+    "jp" : "ただし、提訴当時利用者の住所又は居所が明らかでない、又は外国居住者の場合には民事訴訟法上の管轄裁判所に提起します。",
+    "zh_cn" : "但是，起诉当时使用者的住址或住所不明确或外国居住者时，根据民事诉讼法向管辖法院提出。",
+    "zh_tw" : "但是，起訴當時使用者的住址或住所不明確或外國居住者時，根據民事訴訟法向管轄法院提出。"
+  },
+  {
+    "kr" : "당사와 이용자 간에 제기된 전자상거래 소송에는 한국법을 적용합니다.",
+    "en" : "Korean law applies to e-commerce lawsuits filed between us and users.",
+    "jp" : "当社と利用者の間に提起された電子商取引訴訟には韓国法を適用します。",
+    "zh_cn" : "本公司与用户之间提出的电子商务诉讼适用韩国法律。",
+    "zh_tw" : "本公司與用戶之間提出的電子商務訴訟適用韓國法律。"
+  }
+]

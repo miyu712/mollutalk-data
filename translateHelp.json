@@ -1,0 +1,836 @@
+[
+  {
+    "kr" : "몰루톡 제작 페이지 (프로필)",
+    "en" : "MolluTalk Make Page (Profile)",
+    "jp" : "MolluTalk Make Page (プロフィル)",
+    "zh_cn" : "MolluTalk Make Page (简介)",
+    "zh_tw" : "MolluTalk Make Page (簡介)"
+  },
+  {
+    "kr" : "메뉴 (모바일)",
+    "en" : "Menu (Mobile)",
+    "jp" : "メニュー (モバイル)",
+    "zh_cn" : "菜单 (移动)",
+    "zh_tw" : "菜單 (移動)"
+  },
+  {
+    "kr" : "좌측에 다른 페이지로 이동 가능한 메뉴바가 나옵니다.",
+    "en" : "A menu bar that allows you to move to another page appears on the left.",
+    "jp" : "左側に別のページに移動可能なメニューバーが表示されます。",
+    "zh_cn" : "左侧将显示一个菜单栏，您可以转到其他页面。",
+    "zh_tw" : "左側將顯示一個菜單欄，您可以轉到其他頁面。"
+  },
+  {
+    "kr" : "학생",
+    "en" : "Student",
+    "jp" : "学生",
+    "zh_cn" : "学生",
+    "zh_tw" : "學生"
+  },
+  {
+    "kr" : "원하는 학생을 클릭하면 아래에 프로필들이 나옵니다.",
+    "en" : "Click on the student you want to see the profiles below.",
+    "jp" : "希望の学生をクリックすると、下にプロフィールが表示されます。",
+    "zh_cn" : "点击想要的学生,简介就会显示在下方。",
+    "zh_tw" : "點擊想要的學生,簡介就會顯示在下方。"
+  },
+  {
+    "kr" : "학생 프로필",
+    "en" : "Student Profile",
+    "jp" : "学生プロフィール",
+    "zh_cn" : "学生简介",
+    "zh_tw" : "學生簡介"
+  },
+  {
+    "kr" : "원하는 프로필을 클릭하면 하단바(4번)에 추가됩니다.",
+    "en" : "If you click the profile you want, it will be added to the bottom bar (No. 4).",
+    "jp" : "目的のプロフィールをクリックすると、下のバー（4番）に追加されます。",
+    "zh_cn" : "单击所需的基本信息，将其添加到下面的第 4 栏中。",
+    "zh_tw" : "單擊所需的基本信息，將其添加到下面的第 4 欄中。"
+  },
+  {
+    "kr" : "프로필은 원하는 만큼 추가가능합니다.",
+    "en" : "You can add as many profiles as you want.",
+    "jp" : "プロフィールは好きなだけ追加できます。",
+    "zh_cn" : "简介可以添加多少。",
+    "zh_tw" : "簡介可以添加多少。"
+  },
+  {
+    "kr" : "프로필 추가(+)/삭제모드(-)",
+    "en" : "Profile Add (+)/Delete Mode (-)",
+    "jp" : "プロフィールを追加（+）/削除モード（-）",
+    "zh_cn" : "添加基本信息 (+)/删除模式 (-)",
+    "zh_tw" : "添加基本信息 (+)/刪除模式 (-)"
+  },
+  {
+    "kr" : "클릭으로 변경가능합니다.",
+    "en" : "It can be changed with a click.",
+    "jp" : "クリックで変更できます。",
+    "zh_cn" : "点击即可进行变更。",
+    "zh_tw" : "點擊即可進行變更。"
+  },
+  {
+    "kr" : "선택된 프로필",
+    "en" : "Selected Profile",
+    "jp" : "選択したプロファイル",
+    "zh_cn" : "选定的配置文件",
+    "zh_tw" : "選定的配置文件"
+  },
+  {
+    "kr" : "추가모드일때 클릭시 해당 프로필이 활성화됩니다.",
+    "en" : "When you click in add mode, the profile is activated.",
+    "jp" : "追加モードの場合、クリックするとそのプロファイルが活性化になります。",
+    "zh_cn" : "在其它模式下，单击可激活其配置文件。",
+    "zh_tw" : "在其它模式下，單擊可激活其配置文件。"
+  },
+  {
+    "kr" : "삭제모드일때 클릭시 해당 프로필이 삭제됩니다.",
+    "en" : "When you click in delete mode, the profile is deleted.",
+    "jp" : "削除モードの場合、クリックするとそのプロファイルが削除されます。",
+    "zh_cn" : "在'删除'模式下，单击可删除配置文件。",
+    "zh_tw" : "在'刪除'模式下，單擊可刪除配置文件。"
+  },
+  {
+    "kr" : "이동버튼 (모바일)",
+    "en" : "Move Button (Mobile)",
+    "jp" : "移動ボタン（モバイル）",
+    "zh_cn" : "移动按钮（手机）",
+    "zh_tw" : "移動按鈕（手機）"
+  },
+  {
+    "kr" : "톡 제작 화면으로 이동합니다.",
+    "en" : "Go to the Creative Talk Screen.",
+    "jp" : "トーク制作画面に移動します。",
+    "zh_cn" : "转至Talk制作画面。",
+    "zh_tw" : "轉至Talk製作畫面。"
+  },
+  {
+    "kr" : "몰루톡 제작 페이지 (톡)",
+    "en" : "MolluTalk Make Page (Talk)",
+    "jp" : "MolluTalk Make Page (トーク)",
+    "zh_cn" : "MolluTalk Make Page (Talk)",
+    "zh_tw" : "MolluTalk Make Page (Talk)"
+  },
+  {
+    "kr" : "프로필 토글",
+    "en" : "Profile Toggle",
+    "jp" : "プロフィールの切り替え",
+    "zh_cn" : "切换基本信息",
+    "zh_tw" : "切換基本信息"
+  },
+  {
+    "kr" : "프로필 영역을 클릭하여 프로필 사진을 키거나 끌 수 있습니다.",
+    "en" : "You can turn your profile picture on or off by clicking in the profile area.",
+    "jp" : "プロファイル領域をクリックすると、プロファイルの写真を表示したり移動ができます。",
+    "zh_cn" : "单击配置文件区域可查看和移动配置文件照片。",
+    "zh_tw" : "單擊配置文件區域可查看和移動配置文件照片。"
+  },
+  {
+    "kr" : "챗 편집",
+    "en" : "Chat Edit",
+    "jp" : "チャット編集",
+    "zh_cn" : "聊天编辑",
+    "zh_tw" : "聊天編輯"
+  },
+  {
+    "kr" : "작성한 챗을 삭제 | 수정 | 추가할 수 있습니다.",
+    "en" : "You can be deleted | edit | added chat.",
+    "jp" : "作成したチャットを削除 | 修正 | 追加できます。",
+    "zh_cn" : "可以删除 | 修改 | 添加已创建的聊天。",
+    "zh_tw" : "可以刪除 | 修改 | 添加已創建的聊天。"
+  },
+  {
+    "kr" : "툴바",
+    "en" : "Toolbar",
+    "jp" : "ツールバー",
+    "zh_cn" : "工具栏",
+    "zh_tw" : "工具欄"
+  },
+  {
+    "kr" : "툴바를 키고 끌 수 있습니다.",
+    "en" : "You can turn the toolbar on and off.",
+    "jp" : "ツールバーを開閉できます。",
+    "zh_cn" : "可开闭工具栏 。",
+    "zh_tw" : "可開閉工具欄 。"
+  },
+  {
+    "kr" : "이미지 추가",
+    "en" : "Add Image",
+    "jp" : "画像を追加",
+    "zh_cn" : "添加图像",
+    "zh_tw" : "添加圖像"
+  },
+  {
+    "kr" : "활성화된(5번) 학생 또는 센세의 이름으로 추가됩니다.",
+    "en" : "The name of the active (No. 5) student or sense is added.",
+    "jp" : "活性化になった（5回）生徒またはセンセの名前で追加されます。",
+    "zh_cn" : "以激活的(5次)学生或学生的名字添加。",
+    "zh_tw" : "以激活的(5次)學生或學生的名字添加。"
+  },
+  {
+    "kr" : "입력창",
+    "en" : "Input Box",
+    "jp" : "チャットモード",
+    "zh_cn" : "聊天模式",
+    "zh_tw" : "聊天模式"
+  },
+  {
+    "kr" : "ctrl/shift + enter 시 바로 채팅이 입력됩니다.",
+    "en" : "ctrl/shift + enter to enter chat.",
+    "jp" : "ctrl/shift + enter の直後にチャットが入力されます。",
+    "zh_cn" : "在 ctrl/shift+enter 之后立即输入聊天。",
+    "zh_tw" : "在 ctrl/shift+enter 之後立即輸入聊天。"
+  },
+  {
+    "kr" : "얼굴 이모지를 눌러 다양한 블루아카이브 이모티콘을 사용할 수 있습니다.",
+    "en" : "You can use a variety of Blue Archives emoticons by tapping the face emoji.",
+    "jp" : "顔の絵文字を押すと、さまざまなブルーアーカイブ絵文字を使用できます。",
+    "zh_cn" : "按面部表情符号可使用多种蓝色存档表情符号。",
+    "zh_tw" : "按面部表情符號可使用多種藍色存檔表情符號。"
+  },
+  {
+    "kr" : "이동버튼 (모바일)",
+    "en" : "Move button (Mobile)",
+    "jp" : "移動ボタン（モバイル）",
+    "zh_cn" : "移动按钮（手机）",
+    "zh_tw" : "移動按鈕（手機）"
+  },
+  {
+    "kr" : "프로필 제작 화면으로 이동합니다.",
+    "en" : "You will be taken to the profile creative screen.",
+    "jp" : "プロフィール作成画面に移動します。",
+    "zh_cn" : "转至基本信息创建画面。",
+    "zh_tw" : "轉至基本信息創建畫面。"
+  },
+  {
+    "kr" : "저장된 프로필들",
+    "en" : "Saved Profiles",
+    "jp" : "保存したプロフィール",
+    "zh_cn" : "保存的配置文件",
+    "zh_tw" : "保存的配置文件"
+  },
+  {
+    "kr" : "학생 또는 센세의 프로필을 선택하여 활성화합니다.",
+    "en" : "Select Student or Sensei's profile to activate it.",
+    "jp" : "生徒またはセンセのプロフィールを選択して活性化します。",
+    "zh_cn" : "选择并激活学生或学生的简介。",
+    "zh_tw" : "選擇並激活學生或學生的簡介。"
+  },
+  {
+    "kr" : "이미지 | 톡 | 인연스토리는 활성화된 학생기준으로 추가됩니다.",
+    "en" : "Image | Talk | Relationship stories are added based on active students.",
+    "jp" : "画像 | トーク | 絆イベントは、活性化された学生基準として追加されます。",
+    "zh_cn" : "图像 | 谈话 | 联系事件将作为激活的学生标准添加。",
+    "zh_tw" : "圖像 | 談話 | 聯繫事件將作爲激活的學生標準添加。"
+  },
+  {
+    "kr" : "몰루톡 제작 페이지 (답장 - 선택지)",
+    "en" : "MolluTalk Make Page (Reply - Selection)",
+    "jp" : "MolluTalk Make Page (返事 - 選択肢)",
+    "zh_cn" : "MolluTalk Make Page（回复 - 选项）",
+    "zh_tw" : "MolluTalk Make Page（回覆 - 選項）"
+  },
+  {
+    "kr" : "선택지 삭제",
+    "en" : "Delete Reply",
+    "jp" : "選択肢を削除",
+    "zh_cn" : "删除选项",
+    "zh_tw" : "刪除選項"
+  },
+  {
+    "kr" : "선택지 안에 작성된 톡들과 함께 삭제됩니다.",
+    "en" : "It will be deleted along with the chats written in the Reply.",
+    "jp" : "選択肢内に作成されたトークと共に削除されます。",
+    "zh_cn" : "与在选项中创建的 Talk 一起被删除。",
+    "zh_tw" : "與在選項中創建的 Talk 一起被刪除。"
+  },
+  {
+    "kr" : "선택지 속으로",
+    "en" : "Into The Reply",
+    "jp" : "選択肢に",
+    "zh_cn" : "作为选择",
+    "zh_tw" : "作爲選擇"
+  },
+  {
+    "kr" : "선택지를 클릭하여 안에 내용을 작성할 수 있습니다.",
+    "en" : "You can write content inside by clicking on the Reply.",
+    "jp" : "選択肢をクリックして内容を作成できます。",
+    "zh_cn" : "单击选项以创建内容。",
+    "zh_tw" : "單擊選項以創建內容。"
+  },
+  {
+    "kr" : "선택지 추가",
+    "en" : "Add Reply",
+    "jp" : "選択肢を追加",
+    "zh_cn" : "添加选项",
+    "zh_tw" : "添加選項"
+  },
+  {
+    "kr" : "선택지를 원하는 만큼 추가할 수 있습니다.",
+    "en" : "You can add as many Reply as you want.",
+    "jp" : "選択肢を好きなだけ追加できます。",
+    "zh_cn" : "可以添加任意数量的选项。",
+    "zh_tw" : "可以添加任意數量的選項。"
+  },
+  {
+    "kr" : "업로드",
+    "en" : "Upload",
+    "jp" : "アップロード",
+    "zh_cn" : "上传",
+    "zh_tw" : "上傳"
+  },
+  {
+    "kr" : "로그인시 페이지가 새로고침되므로 작성하신 톡은 \n반드시 공유파일로 저장 후 로그인 해주세요",
+    "en" : "The page will be refreshed when you log in, \nso be sure to save the chat you created as a shared file before logging in.",
+    "jp" : "ログイン時にページが更新されますので、\n作成したトークは必ず共有ファイルに保存した後ログインしてください。",
+    "zh_cn" : "登录时页面会更新，\n请务必将创建的对话保存到共享文件后登录。",
+    "zh_tw" : "登錄時頁面會更新，\n請務必將創建的對話保存到共享文件後登錄。"
+  },
+  {
+    "kr" : "몰루톡 제작 페이지 (답장 속)",
+    "en" : "MolluTalk Make Page (In Reply)",
+    "jp" : "MolluTalk Make Page (返事の中)",
+    "zh_cn" : "MolluTalk Make Page（回复中）",
+    "zh_tw" : "MolluTalk Make Page（回覆中）"
+  },
+  {
+    "kr" : "뒤로가기",
+    "en" : "Go Back",
+    "jp" : "戻る",
+    "zh_cn" : "返回",
+    "zh_tw" : "返回"
+  },
+  {
+    "kr" : "바로 이전에 있었던 답장 속으로 이동합니다.",
+    "en" : "Jumps directly into the previous Reply.",
+    "jp" : "直前にあった返信の中に移動します。",
+    "zh_cn" : "移动到之前的回复中。",
+    "zh_tw" : "移動到之前的回覆中。"
+  },
+  {
+    "kr" : "ex) 답장2 -> 응?",
+    "en" : "ex) 답장2 -> 응?",
+    "jp" : "ex) 답장2 -> 응?",
+    "zh_cn" : "ex) 답장2 -> 응?",
+    "zh_tw" : "ex) 답장2 -> 응?"
+  },
+  {
+    "kr" : "답장끄기",
+    "en" : "Reply off",
+    "jp" : "返信をオフにする",
+    "zh_cn" : "关闭回复",
+    "zh_tw" : "關閉回覆"
+  },
+  {
+    "kr" : "어느 답장 속에 있던지 초기화면으로 돌아갑니다.",
+    "en" : "It will return to the initial screen that was in any reply.",
+    "jp" : "どの返信の中に居ても初期画面に戻ります。",
+    "zh_cn" : "不管在哪个回复中，都会返回初始画面。",
+    "zh_tw" : "不管在哪個回覆中，都會返回初始畫面。"
+  },
+  {
+    "kr" : "명령어 {name}",
+    "en" : "Command {name}",
+    "jp" : "命令語 {name}",
+    "zh_cn" : "指令词 {name}",
+    "zh_tw" : "指令詞 {name}"
+  },
+  {
+    "kr" : "실행모드에서는 게임닉네임으로 치환됩니다.",
+    "en" : "In run mode, it is replaced with the game nickname.",
+    "jp" : "実行モードではゲームニックネームに変換されます。",
+    "zh_cn" : "在运行模式下转换为游戏昵称。",
+    "zh_tw" : "在運行模式下轉換爲遊戲暱稱。"
+  },
+  {
+    "kr" : "이미지로 저장할 때는 적용이 안됩니다.",
+    "en" : "It does not apply when saving as an image.",
+    "jp" : "画像として保存するときは適用されません。",
+    "zh_cn" : "保存为图像时不适用。",
+    "zh_tw" : "保存爲圖像時不適用。"
+  },
+  {
+    "kr" : "명령어 {end}",
+    "en" : "Command {end}",
+    "jp" : "命令語 {end}",
+    "zh_cn" : "指令语 {end}",
+    "zh_tw" : "指令語 {end}"
+  },
+  {
+    "kr" : "해당 명령어를 만날 시 톡은 바로 종료됩니다.",
+    "en" : "When the corresponding command is met, the talk is immediately terminated.",
+    "jp" : "そのコマンドに会うと、トークはすぐに終了します。",
+    "zh_cn" : "见到那个命令后，谈话马上结束。",
+    "zh_tw" : "見到那個命令後，談話馬上結束。"
+  },
+  {
+    "kr" : "여러 엔딩을 만들 수 있습니다.",
+    "en" : "You can create multiple endings.",
+    "jp" : "様々なエンディングを作成できます。",
+    "zh_cn" : "可以创建不同的结尾。",
+    "zh_tw" : "可以創建不同的結尾。"
+  },
+  {
+    "kr" : "몰루톡 제작 페이지 (업로드)",
+    "en" : "MolluTalk Make Page (Upload)",
+    "jp" : "MolluTalk Make Page (アップロード)",
+    "zh_cn" : "MolluTalk Make Page（上载）",
+    "zh_tw" : "MolluTalk Make Page（上載）"
+  },
+  {
+    "kr" : "시리즈",
+    "en" : "Series",
+    "jp" : "シリーズ",
+    "zh_cn" : "系列",
+    "zh_tw" : "系列"
+  },
+  {
+    "kr" : "톡을 시리즈로 업로드 할 수 있습니다.",
+    "en" : "You can upload Talk as a series.",
+    "jp" : "トークをシリーズにアップロードできます。",
+    "zh_cn" : "可将Talk上传到系列中。",
+    "zh_tw" : "可將Talk上傳到系列中。"
+  },
+  {
+    "kr" : "선택으로 업로드시 시리즈가 적용되지않습니다.",
+    "en" : "Series is not applied when uploading as an option.",
+    "jp" : "選択でアップロードする時はシリーズは適用されません。",
+    "zh_cn" : "选择上传时不适用系列。",
+    "zh_tw" : "選擇上傳時不適用系列。"
+  },
+  {
+    "kr" : "추가를 선택시 새 시리즈를 만들 수 있습니다.",
+    "en" : "You can create a new series by selecting Add.",
+    "jp" : "追加を選択すると、新しいシリーズを作れます。",
+    "zh_cn" : "选择'添加'可创建新系列。",
+    "zh_tw" : "選擇'添加'可創建新系列。"
+  },
+  {
+    "kr" : "기존에 만들어둔 시리즈를 선택하면 해당 시리즈로 업로드 됩니다.",
+    "en" : "If you select an existing series, it will be uploaded to that series.",
+    "jp" : "元に作ったシリーズを選ぶと該当のシリーズでアップロードされます。",
+    "zh_cn" : "选择原来制作的系列的话，会上传到该系列上。",
+    "zh_tw" : "選擇原來製作的系列的話，會上傳到該系列上。"
+  },
+  {
+    "kr" : "톡 타입",
+    "en" : "Talk Type",
+    "jp" : "トークタイプ",
+    "zh_cn" : "扭矩类型",
+    "zh_tw" : "扭矩類型"
+  },
+  {
+    "kr" : "공식과 창작으로 구분지어 업로드 가능합니다.",
+    "en" : "It can be uploaded separately as official and creative.",
+    "jp" : "公式と創作に分かれてアップロード可能です。",
+    "zh_cn" : "可以分为正式和创作上传。",
+    "zh_tw" : "可以分爲正式和創作上傳。"
+  },
+  {
+    "kr" : "시리즈 추가",
+    "en" : "Add Series",
+    "jp" : "シリーズを追加",
+    "zh_cn" : "添加系列",
+    "zh_tw" : "添加系列"
+  },
+  {
+    "kr" : "작성칸에는 시리즈 제목을 적어주세요.",
+    "en" : "Please write the title of the series in the writing field.",
+    "jp" : "作成欄にはシリーズタイトルを記入してください。",
+    "zh_cn" : "请在制作栏中填写系列标题。",
+    "zh_tw" : "請在製作欄中填寫系列標題。"
+  },
+  {
+    "kr" : "몰루톡 플레이 페이지 (게시판)",
+    "en" : "MolluTalk Make Page (Board)",
+    "jp" : "MolluTalk Make Page (掲示板)",
+    "zh_cn" : "MolluTalk Make Page（公告栏）",
+    "zh_tw" : "MolluTalk Make Page（公告欄）"
+  },
+  {
+    "kr" : "검색조건 1",
+    "en" : "Search Condition 1",
+    "jp" : "検索条件 1",
+    "zh_cn" : "检索条件1",
+    "zh_tw" : "檢索條件1"
+  },
+  {
+    "kr" : "○ 북마크 여부 (로그인 후 이용가능)",
+    "en" : "○ Bookmark or not (available after logging in)",
+    "jp" : "○ ブックマーク（ログイン後に利用可能）",
+    "zh_cn" : "○ 书签（登录后可用）",
+    "zh_tw" : "○ 書籤（登錄後可用）"
+  },
+  {
+    "kr" : "○ 최신순 | 추천순 | 조회순",
+    "en" : "○ Recent | Best | View",
+    "jp" : "○ 最新 | おすすめ | 照会",
+    "zh_cn" : "○ 最新 | 推荐 | 查询",
+    "zh_tw" : "○ 最新 | 推薦 | 查詢"
+  },
+  {
+    "kr" : "○ 내림차순 | 오름차순",
+    "en" : "○ Desc | Asc",
+    "jp" : "○ 降順 | 昇順",
+    "zh_cn" : "○ 降序|升序",
+    "zh_tw" : "○ 降序|升序"
+  },
+  {
+    "kr" : "검색조건 2",
+    "en" : "Search Condition 2",
+    "jp" : "検索条件 2",
+    "zh_cn" : "检索条件2",
+    "zh_tw" : "檢索條件2"
+  },
+  {
+    "kr" : "○ 제목 | 작성자 | 학생 이름 | 시리즈",
+    "en" : "○ Title | Author | Student Name | Series",
+    "jp" : "○ タイトル | 作成者 | 学生名 | シリーズ",
+    "zh_cn" : "○ 标题 | 作者 | 学生名 | 系列",
+    "zh_tw" : "○ 標題 | 作者 | 學生名 | 系列"
+  },
+  {
+    "kr" : "업로드된 톡",
+    "en" : "Uploaded Talk",
+    "jp" : "アップロードされたトーク",
+    "zh_cn" : "上传的演讲",
+    "zh_tw" : "上傳的演講"
+  },
+  {
+    "kr" : "클릭시 아래에 자세한 정보가 나옵니다.",
+    "en" : "Click below for more detailed information.",
+    "jp" : "クリックすると、以下に詳細情報が表示されます。",
+    "zh_cn" : "单击可查看以下详细信息:",
+    "zh_tw" : "單擊可查看以下詳細信息:"
+  },
+  {
+    "kr" : "플레이",
+    "en" : "Play",
+    "jp" : "プレイ",
+    "zh_cn" : "游戏",
+    "zh_tw" : "遊戲"
+  },
+  {
+    "kr" : "클릭한 톡이 바로 실행됩니다.",
+    "en" : "The click is executed immediately.",
+    "jp" : "クリックしたトークがすぐに実行されます。",
+    "zh_cn" : "单击的 Talk 将立即运行。",
+    "zh_tw" : "單擊的 Talk 將立即運行。"
+  },
+  {
+    "kr" : "공유파일 업로드",
+    "en" : "Upload Shared File",
+    "jp" : "共有ファイルのアップロード",
+    "zh_cn" : "上载共享文件",
+    "zh_tw" : "上載共享文件"
+  },
+  {
+    "kr" : "공유파일(6번)을 업로드하여 플레이할 수 있습니다.",
+    "en" : "You can play by uploading the Shared File (No. 6).",
+    "jp" : "共有ファイル（6番）をアップロードしてプレイできます。",
+    "zh_cn" : "可上传共享文件（第6号）进行播放。",
+    "zh_tw" : "可上傳共享文件（第6號）進行播放。"
+  },
+  {
+    "kr" : "공유파일",
+    "en" : "Shared File",
+    "jp" : "共有ファイル",
+    "zh_cn" : "共享文件",
+    "zh_tw" : "共享文件"
+  },
+  {
+    "kr" : "해당 이미지로 저장되어있는 몰루톡",
+    "en" : "MolluTalk saved as the image",
+    "jp" : "その画像として保存されているMolluTalk",
+    "zh_cn" : "保存为图像的 MolluTalk",
+    "zh_tw" : "保存爲圖像的 MolluTalk"
+  },
+  {
+    "kr" : "이동버튼 (모바일)",
+    "en" : "Move button (Mobile)",
+    "jp" : "移動ボタン（モバイル）",
+    "zh_cn" : "移动按钮（手机）",
+    "zh_tw" : "移動按鈕（手機）"
+  },
+  {
+    "kr" : "플레이 화면으로 이동합니다.",
+    "en" : "Go to the Play Screen.",
+    "jp" : "プレイ画面に移動します。",
+    "zh_cn" : "转至播放画面。",
+    "zh_tw" : "轉至播放畫面。"
+  },
+  {
+    "kr" : "몰루톡 플레이 페이지 (톡 정보)",
+    "en" : "MolluTalk Play Page (Talk Info)",
+    "jp" : "MolluTalk Play Page (トーク情報)",
+    "zh_cn" : "MolluTalk Play Page（谈话信息）",
+    "zh_tw" : "MolluTalk Play Page（談話信息）"
+  },
+  {
+    "kr" : "검색",
+    "en" : "Search",
+    "jp" : "検索",
+    "zh_cn" : "搜索",
+    "zh_tw" : "搜索"
+  },
+  {
+    "kr" : "작성자가 작성한 글들 | 해당 톡의 시리즈를 검색할 수 있습니다.",
+    "en" : "You can search the articles written by the author | the series of the talk.",
+    "jp" : "作成者が作成したトーク | 該当トークのシリーズを検索できます。",
+    "zh_cn" : "您可以搜索作者创建的 Talk | 相应 Talk 系列。",
+    "zh_tw" : "您可以搜索作者創建的 Talk | 相應 Talk 系列。"
+  },
+  {
+    "kr" : "북마크",
+    "en" : "Bookmark",
+    "jp" : "ブックマーク",
+    "zh_cn" : "书签",
+    "zh_tw" : "書籤"
+  },
+  {
+    "kr" : "맘에 드는 톡을 북마크할 수 있습니다.",
+    "en" : "You can bookmark your favorite Talks.",
+    "jp" : "好きなトークをブックマークできます。",
+    "zh_cn" : "可以书签您喜欢的谈话。",
+    "zh_tw" : "可以書籤您喜歡的談話。"
+  },
+  {
+    "kr" : "공유",
+    "en" : "Share",
+    "jp" : "共有",
+    "zh_cn" : "孔侑莉",
+    "zh_tw" : "孔侑莉"
+  },
+  {
+    "kr" : "해당 톡을 다른 사람들에게 공유해보세요.",
+    "en" : "Share the Talk with other people.",
+    "jp" : "該当トークを他の人に共有してみてください。",
+    "zh_cn" : "请把相关Talk分享给别人。",
+    "zh_tw" : "請把相關Talk分享給別人。"
+  },
+  {
+    "kr" : "신고",
+    "en" : "Report",
+    "jp" : "申告",
+    "zh_cn" : "申报",
+    "zh_tw" : "申報"
+  },
+  {
+    "kr" : "블루아카이브 2차창작 가이드에 어긋나는 글은 신고해주세요.",
+    "en" : "Please report any articles that are inconsistent with the Blue Archive's secondary creative guide.",
+    "jp" : "ブルーアーカイブセカンドクリエイティブガイドに違反するトークを申告してください。",
+    "zh_cn" : "请举报违反蓝色档案第二创意指南的谈话。",
+    "zh_tw" : "請舉報違反藍色檔案第二創意指南的談話。"
+  },
+  {
+    "kr" : "작성자 전용",
+    "en" : "Author only",
+    "jp" : "作成者のみ",
+    "zh_cn" : "仅限作者",
+    "zh_tw" : "僅限作者"
+  },
+  {
+    "kr" : "공유가능한 파일을 다운로드할 수 있습니다.",
+    "en" : "You can download it as a shareable file.",
+    "jp" : "共有可能なファイルをダウンロードできます。",
+    "zh_cn" : "可以下载可共享的文件。",
+    "zh_tw" : "可以下載可共享的文件。"
+  },
+  {
+    "kr" : "해당 톡을 삭제할 수 있습니다.",
+    "en" : "You can delete the Talk.",
+    "jp" : "該当トークを削除できます。",
+    "zh_cn" : "可以删除相应的Talk。",
+    "zh_tw" : "可以刪除相應的Talk。"
+  },
+  {
+    "kr" : "몰루톡 플레이 페이지 (톡)",
+    "en" : "MolluTalk Play Page (Talk)",
+    "jp" : "MolluTalk Play Page (トーク)",
+    "zh_cn" : "MolluTalk Play Page（谈话）",
+    "zh_tw" : "MolluTalk Play Page（談話）"
+  },
+  {
+    "kr" : "이동버튼 (모바일)",
+    "en" : "Move Button (Mobile)",
+    "jp" : "移動ボタン（モバイル）",
+    "zh_cn" : "移动按钮（手机）",
+    "zh_tw" : "移動按鈕（手機）"
+  },
+  {
+    "kr" : "게시판 화면으로 이동합니다.",
+    "en" : "Go to the Board Screen.",
+    "jp" : "掲示板画面に移動します。",
+    "zh_cn" : "转到公告栏屏幕。",
+    "zh_tw" : "轉到公告欄屏幕。"
+  },
+  {
+    "kr" : "이미지로 저장",
+    "en" : "Save As Image",
+    "jp" : "画像で保存",
+    "zh_cn" : "保存为图像",
+    "zh_tw" : "保存爲圖像"
+  },
+  {
+    "kr" : "플레이 중인 화면이 이미지로 저장됩니다.",
+    "en" : "The screen being played is saved as an image.",
+    "jp" : "プレイ中の画面が画像で保存されます。",
+    "zh_cn" : "播放中的画面被保存为图像。",
+    "zh_tw" : "播放中的畫面被保存爲圖像。"
+  },
+  {
+    "kr" : "스킵",
+    "en" : "Skip",
+    "jp" : "スキップ",
+    "zh_cn" : "跳过",
+    "zh_tw" : "跳過"
+  },
+  {
+    "kr" : "선택지 | 인연스토리 | 끝 부분까지 톡을 스킵합니다.",
+    "en" : "Skip the reply | the story of the relationship | the talk to the end.",
+    "jp" : "選択肢 | 縁話 | 最後までトークをスキップします。",
+    "zh_cn" : "选择项 | 缘分 | 跳过谈话直到结束。",
+    "zh_tw" : "選擇項 | 緣分 | 跳過談話直到結束。"
+  },
+  {
+    "kr" : "초기화",
+    "en" : "Reset",
+    "jp" : "初期化",
+    "zh_cn" : "初始化",
+    "zh_tw" : "初始化"
+  },
+  {
+    "kr" : "플레이 중인 톡을 처음부터 다시 시작합니다.",
+    "en" : "Restart the Talk you are playing from the beginning.",
+    "jp" : "プレイ中のトークを最初からやり直します",
+    "zh_cn" : "重新做正在玩的演讲。",
+    "zh_tw" : "重新做正在玩的演講。"
+  },
+  {
+    "kr" : "몰루톡 설정 페이지 (옵션)",
+    "en" : "MolluTalk Settings Page (Option)",
+    "jp" : "MolluTalk Settings Page (オプション)",
+    "zh_cn" : "MolluTalk Settings Page（可选）",
+    "zh_tw" : "MolluTalk Settings Page（可選）"
+  },
+  {
+    "kr" : "로그인 전",
+    "en" : "Before Login",
+    "jp" : "ログイン前",
+    "zh_cn" : "登录前",
+    "zh_tw" : "登錄前"
+  },
+  {
+    "kr" : "구글 로그인을 지원합니다.",
+    "en" : "Supports Google sign-in.",
+    "jp" : "Googleログインをサポートしています。",
+    "zh_cn" : "支持 Google 登录。",
+    "zh_tw" : "支持 Google 登錄。"
+  },
+  {
+    "kr" : "FireBase를 통한 회원관리가 이루어집니다.",
+    "en" : "Membership management is done through FireBase.",
+    "jp" : "FireBaseによる会員管理が行われます。",
+    "zh_cn" : "通过FireBase进行会员管理。",
+    "zh_tw" : "通過FireBase進行會員管理。"
+  },
+  {
+    "kr" : "로그인 후",
+    "en" : "After Login",
+    "jp" : "ログイン後",
+    "zh_cn" : "登录后",
+    "zh_tw" : "登錄後"
+  },
+  {
+    "kr" : "언제든지 로그아웃 가능합니다.",
+    "en" : "You can log out at any time.",
+    "jp" : "いつでもログアウトできます。",
+    "zh_cn" : "随时可以注销。",
+    "zh_tw" : "隨時可以註銷。"
+  },
+  {
+    "kr" : "계정 닉네임은 톡 업로드시 작성자 이름에 사용됩니다.",
+    "en" : "The account nickname is used for the author's name when uploading Talk.",
+    "jp" : "アカウントのニックネームは、トークのアップロード時に作成者の名前に使用されます。",
+    "zh_cn" : "帐户昵称在上传 Talk 时用于创建者的姓名。",
+    "zh_tw" : "帳戶暱稱在上傳 Talk 時用於創建者的姓名。"
+  },
+  {
+    "kr" : "관리",
+    "en" : "Management",
+    "jp" : "管理",
+    "zh_cn" : "管理",
+    "zh_tw" : "管理"
+  },
+  {
+    "kr" : "본인이 생성한 시리즈를 관리할 수 있습니다.",
+    "en" : "You can manage the series you have created.",
+    "jp" : "自分が作成したシリーズを管理できます。",
+    "zh_cn" : "您可以管理您创建的系列。",
+    "zh_tw" : "您可以管理您創建的系列。"
+  },
+  {
+    "kr" : "본인이 작성한 창작톡 | 공식톡을 검색할 수 있습니다.",
+    "en" : "You can search for creative chats | official chats created by yourself.",
+    "jp" : "本人が作成した創作トーク | 公式トークを検索できます。",
+    "zh_cn" : "您可以搜索您创建的创作演讲 | 官方演讲。",
+    "zh_tw" : "您可以搜索您創建的創作演講 | 官方演講。"
+  },
+  {
+    "kr" : "게임 닉네임",
+    "en" : "Game Nickname",
+    "jp" : "ゲームニックネーム",
+    "zh_cn" : "游戏昵称",
+    "zh_tw" : "遊戲暱稱"
+  },
+  {
+    "kr" : "몰루톡 플레이시 {name} 명령어에 사용됩니다.",
+    "en" : "Used for {name} commands when playing MolluTalk.",
+    "jp" : "MolluTalk のプレイ時に {name} 命令語に使用されます。",
+    "zh_cn" : "游戏昵称MolluTalk时用于{name}指令。",
+    "zh_tw" : "播放 MolluTalk 時用於 {name} 指令 。"
+  },
+  {
+    "kr" : "채팅 배속",
+    "en" : "Chat Speed",
+    "jp" : "チャット倍速",
+    "zh_cn" : "聊天倍速",
+    "zh_tw" : "聊天倍速"
+  },
+  {
+    "kr" : "몰루톡 플레이시 톡이 나오는 배속을 정할 수 있습니다.",
+    "en" : "You can set the speed at which the tok comes out when playing MolluTalk.",
+    "jp" : "MolluTalk プレイ時にトークが出る倍速を決めることができます。",
+    "zh_cn" : "可以确定MolluTalk播放时出现Talk的倍速。",
+    "zh_tw" : "可以確定MolluTalk播放時出現Talk的倍速。"
+  },
+  {
+    "kr" : "언어",
+    "en" : "Language",
+    "jp" : "命令語",
+    "zh_cn" : "命令语",
+    "zh_tw" : "命令語"
+  },
+  {
+    "kr" : "한국어 | 일어 | 영어 | 중국어 | 대만어를 지원합니다.",
+    "en" : "It supports Korean | Japanese | English | Chinese | Taiwanese.",
+    "jp" : "韓国語 | 日本語 | 英語 | 中国語 | 台湾語対応です。",
+    "zh_cn" : "支持韩语 | 日语 | 英语 | 中文 | 台语 。",
+    "zh_tw" : "支持韓語 | 日語 | 英語 | 中文 | 臺語 。"
+  },
+  {
+    "kr" : "버그리포트 / 건의사항",
+    "en" : "Bug Report / Suggestion",
+    "jp" : "バグレポート / 提案",
+    "zh_cn" : "错误报告 / 建议",
+    "zh_tw" : "錯誤報告 / 建議"
+  },
+  {
+    "kr" : "언제든지 문의주세요.",
+    "en" : "Please contact us at any time.",
+    "jp" : "いつでもお問い合わせください。",
+    "zh_cn" : "请随时咨询。",
+    "zh_tw" : "請隨時諮詢。"
+  }
+  
+]
