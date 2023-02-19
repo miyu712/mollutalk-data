@@ -1,0 +1,41 @@
+
+私は主に中国の主流翻訳を参考にして提案しているので、必ずしも正確ではありません
+
+
+For some Chinese translations, please refer to the Chinese Blue Archive wiki website. This Chinese translation is used more by Chinese players.
+この中国Blue Archive wikiサイトを参考にできる中国語翻訳もあります。この中国語翻訳は中国のプレイヤーが使うことが多い。
+https://ba.gamekee.com/
+
+
+
+zh_cn   蓝色存档 recommends translation to 碧蓝档案
+zh_tw   藍色存檔 recommends translation to 蔚藍檔案
+
+   "kr" : "블루아카이브",
+        "en" : "BlueArchive",
+        "jp" : "ブルーアーカイブ",
+        "zh_cn" : "蓝色存档",
+        "zh_tw" : "藍色存檔",
+        
+        
+zh_cn   纽带活动 recommends translation to 羁绊事件
+zh_tw   紐帶活動 recommends translation to 羈絆事件
+        
+        "relationship_event" : {
+    "kr" : "인연 이벤트",
+    "en" : "Relationship Event",
+    "jp" : "絆イベント",
+    "zh_cn" : "纽带活动",
+    "zh_tw" : "紐帶活動"
+    
+    
+zh_cn   的纽带故事 recommends translation to 的羁绊故事
+zh_tw   的紐帶故事 recommends translation to 的羈絆故事
+    
+    
+    "go_relationship_event" : {
+    "kr" : "의 인연스토리로",
+    "en" : " of the relationship story",
+    "jp" : "の絆ストーリーへ",
+    "zh_cn" : "的纽带故事",
+    "zh_tw" : "的紐帶故事"
